@@ -1,6 +1,5 @@
 # Usage
-> copy all code in `dyno.js` in your browser console.
-> then, enter.
+> copy all code in `dyno.js` and paste in your browser console. Then, enter. Now, your dynosaurus game got hacked!
 
 **1. Hack Speed the Dynosaurus**
 
